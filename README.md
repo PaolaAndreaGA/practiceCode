@@ -1,1 +1,1 @@
-# parcticeCode
+# practiceCode
