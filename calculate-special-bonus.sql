@@ -1,4 +1,4 @@
-SQL Schema
+/*SQL Schema
 Table: Employees
 
 +-------------+---------+
@@ -16,7 +16,7 @@ Write an SQL query to calculate the bonus of each employee. The bonus of an empl
 
 Return the result table ordered by employee_id.
 
-The query result format is in the following example.
+The query result format is in the following example.*/
 
  
 
